@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381990655057",
+    "project_id": "proyectocrud-2b586",
+    "storage_bucket": "proyectocrud-2b586.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381990655057:android:403d83c2a2b3e914849470",
+        "android_client_info": {
+          "package_name": "mx.edu.itesca.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm-O5UiCM6QJjxiERa8nWoL46s_zwBmmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
